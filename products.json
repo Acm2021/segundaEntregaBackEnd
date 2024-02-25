@@ -1,0 +1,29 @@
+[
+	{
+		"id": 1,
+		"title": "Mi_prodcuto",
+		"description": "Descripción",
+		"price": 20.99,
+		"thumbnail": "imagen.jpg",
+		"code": "ABC123",
+		"stock": 50
+	},
+	{
+		"id": 3,
+		"title": "Mi_prodcuto3",
+		"description": "Descripción3",
+		"price": 20.992,
+		"thumbnail": "imagen2.jpg",
+		"code": "ABC1236",
+		"stock": 50
+	},
+	{
+		"id": 2,
+		"title": "Mi_prodcuto2",
+		"description": "Descripción2",
+		"price": 20.992,
+		"thumbnail": "imagen2.jpg",
+		"code": "ABC1232",
+		"stock": 50
+	}
+]
